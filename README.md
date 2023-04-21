@@ -9,9 +9,9 @@ DeepCASE introduces a semi-supervised approach for the contextual analysis of se
 We provide an extensive documentation including installation instructions and reference at [deepcase.readthedocs.io](https://deepcase.readthedocs.io/en/latest/).
 
 ## Dataset
-This research uses [two datasets](https://github.com/ucsb-seclab/DeepCase_Datasets/) for its evaluation:
+This research uses [two datasets](https://github.com/ucsb-seclab/DeepCase-Dataset/) for its evaluation:
  1. Lastline dataset.
- 2. [HDFS dataset](https://github.com/ucsb-seclab/DeepCase_Datasets/).
+ 2. [HDFS dataset](https://github.com/ucsb-seclab/DeepCase-Dataset/).
 
 ---
 **NOTE**
